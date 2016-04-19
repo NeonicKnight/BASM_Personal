@@ -1,0 +1,159 @@
+fileFormatVersion: 2
+guid: 8650cab94008dbe48af30f462d2cba4e
+timeCreated: 1460140247
+licenseType: Free
+ModelImporter:
+  serializedVersion: 19
+  fileIDToRecycleName:
+    100000: curvePalmIndoorMedium
+    100002: curveRosemary
+    100004: curveRosemary1
+    100006: curveRosemary2
+    100008: pCylinder10
+    100010: pCylinder8
+    100012: pCylinder9
+    100014: polySurface1
+    100016: polySurface1 1
+    100018: polySurface2
+    100020: //RootNode
+    100022: pPlane37
+    100024: pPlane39
+    100026: pPlane40
+    100028: pPlane41
+    100030: pPlane44
+    100032: pPlane45
+    100034: pPlane46
+    100036: pPlane47
+    100038: pPlane48
+    100040: pPlane49
+    100042: pPlane50
+    100044: pPlane51
+    100046: pPlane52
+    100048: transform1
+    100050: transform10
+    100052: transform11
+    100054: transform12
+    100056: transform13
+    100058: transform14
+    100060: transform15
+    100062: transform16
+    100064: transform17
+    100066: transform18
+    100068: transform2
+    100070: transform3
+    100072: transform4
+    100074: transform5
+    100076: transform6
+    100078: transform7
+    100080: transform8
+    100082: transform9
+    400000: curvePalmIndoorMedium
+    400002: curveRosemary
+    400004: curveRosemary1
+    400006: curveRosemary2
+    400008: pCylinder10
+    400010: pCylinder8
+    400012: pCylinder9
+    400014: polySurface1
+    400016: polySurface1 1
+    400018: polySurface2
+    400020: //RootNode
+    400022: pPlane37
+    400024: pPlane39
+    400026: pPlane40
+    400028: pPlane41
+    400030: pPlane44
+    400032: pPlane45
+    400034: pPlane46
+    400036: pPlane47
+    400038: pPlane48
+    400040: pPlane49
+    400042: pPlane50
+    400044: pPlane51
+    400046: pPlane52
+    400048: transform1
+    400050: transform10
+    400052: transform11
+    400054: transform12
+    400056: transform13
+    400058: transform14
+    400060: transform15
+    400062: transform16
+    400064: transform17
+    400066: transform18
+    400068: transform2
+    400070: transform3
+    400072: transform4
+    400074: transform5
+    400076: transform6
+    400078: transform7
+    400080: transform8
+    400082: transform9
+    2300000: polySurface1
+    3300000: polySurface1
+    4300000: polySurface1
+    9500000: //RootNode
+  materials:
+    importMaterials: 1
+    materialName: 0
+    materialSearch: 1
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    resampleRotations: 1
+    optimizeGameObjects: 0
+    motionNodeName: 
+    animationImportErrors: 
+    animationImportWarnings: 
+    animationRetargetingWarnings: 
+    animationDoRetargetingWarnings: 0
+    animationCompression: 1
+    animationRotationError: 0.5
+    animationPositionError: 0.5
+    animationScaleError: 0.5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    clipAnimations: []
+    isReadable: 1
+  meshes:
+    lODScreenPercentages: []
+    globalScale: 1
+    meshCompression: 0
+    addColliders: 0
+    importBlendShapes: 1
+    swapUVChannels: 0
+    generateSecondaryUV: 0
+    useFileUnits: 1
+    optimizeMeshForGPU: 1
+    keepQuads: 0
+    weldVertices: 1
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVPackMargin: 4
+    useFileScale: 1
+  tangentSpace:
+    normalSmoothAngle: 60
+    normalImportMode: 0
+    tangentImportMode: 3
+  importAnimation: 1
+  copyAvatar: 0
+  humanDescription:
+    human: []
+    skeleton: []
+    armTwist: 0.5
+    foreArmTwist: 0.5
+    upperLegTwist: 0.5
+    legTwist: 0.5
+    armStretch: 0.05
+    legStretch: 0.05
+    feetSpacing: 0
+    rootMotionBoneName: 
+    hasTranslationDoF: 0
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  animationType: 2
+  humanoidOversampling: 1
+  additionalBone: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
